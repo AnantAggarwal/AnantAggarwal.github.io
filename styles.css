@@ -1,0 +1,19 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css');
+
+#navbar {
+  background-color: #FFFFFF;
+}
+.navbar-objects{
+  color:#58CCED;
+  font-family:Cursive;
+  font-weight: bold;
+}
+.icon{
+  color:#58CCED;
+}
+.li-navbar:hover{
+  background-color: #58CCED;
+}
+.li-navbar:hover span{
+  color:white;
+}
