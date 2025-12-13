@@ -1,34 +1,17 @@
 ---
-layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+layout: page
+title: About
+permalink: /about/
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently going after end to end learning for robotic manipulation because of the impact it could have on the real world, and the surface area of the problem in contact with understanding how to make agents learn and reason like we do. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently exploring whether self-supervised learning on play data and clever usage of language to align robot and human video in the same trajectory space can build models which provide a sufficient base that they can be swiftly fine-tuned to any manipulation task.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In the past, I've looked into hierarchial RL, energy models for planning, and seeing if we can learn a representation of visual inputs where optimal paths are by definition the shortest path through the transformed space. 
+
+I also love fencing! At my best, I've been ranked 43rd in the World for Men's Foil and I narrowly failed to qualify for the Tokyo Olympics. I've just graduated from Sydney University in Mechatronic (Space) Engineering, where I was advised by Ian Manchester and Stefan Williams. During my degree I spent a year split between Beijing and Hong Kong during which I studied at Tsinghua University on a New Colombo Scholarship, and interned at Zeroth.AI (a VC firm) and JD.com (China's analogue to Amazon). In Sydney I've interned at the Australian Centre for Field Robotics (ACFR),  Gronade (an analytics consultancy) and Language Confidence (AI for correcting spoken English). I'm currently working at McKinsey Digital. 
+
+If you're ever in Sydney drop me a message at any of the contacts at the bottom of the page!
+
+
