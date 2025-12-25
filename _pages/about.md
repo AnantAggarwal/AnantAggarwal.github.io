@@ -6,20 +6,20 @@ permalink: /about/
 
 # About Me
 
-Welcome to my blog! I'm Anant Aggarwal.
+I'm Anant Aggarwal, a researcher and developer passionate about Machine Learning and Computer Vision.
 
-<!-- 
-Add your bio here. Some suggestions:
-- What you're currently working on
-- Your interests and areas of expertise
-- Your background and experience
-- What you write about on this blog
--->
+## Background
 
-## What I Write About
+<!-- Add your background here - education, experience, etc. -->
+I'm currently exploring cutting-edge AI technologies and their applications in solving real-world problems.
 
-This blog covers topics in Machine Learning, Computer Vision, and my explorations in technology.
+## Research Interests
 
-## Connect
+- Machine Learning
+- Computer Vision  
+- Deep Learning
+- Neural Networks
 
-Feel free to reach out through any of the social links below, or email me at [anantg24@iitk.ac.in](mailto:anantg24@iitk.ac.in).
+## Contact
+
+Feel free to reach out at [anantg24@iitk.ac.in](mailto:anantg24@iitk.ac.in) or connect with me on [GitHub](https://github.com/anantaggarwal) and [Twitter](https://twitter.com/anantidote26).
