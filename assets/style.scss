@@ -1,7 +1,4 @@
----
----
-
-//
+--- --- //
 // IMPORTS
 //
 
@@ -316,6 +313,14 @@ p>img {
 
 .site-description {
   display: none;
+}
+
+.site-favicon {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+  vertical-align: middle;
+  border-radius: 4px;
 }
 
 nav {
