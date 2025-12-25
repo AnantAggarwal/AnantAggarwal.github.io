@@ -40,12 +40,12 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-168930089-1
+# google_analytics: 
 
-# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
+# Your website URL (e.g. http://yourusername.github.io or http://www.yourdomain.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.sholtodouglas.github.io
-enforce_ssl: http://www.sholtodouglas.github.io
+url: https://anantaggarwal.github.io
+enforce_ssl: https://anantaggarwal.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

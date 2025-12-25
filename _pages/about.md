@@ -4,14 +4,22 @@ title: About
 permalink: /about/
 ---
 
-I'm currently going after end to end learning for robotic manipulation because of the impact it could have on the real world, and the surface area of the problem in contact with understanding how to make agents learn and reason like we do. 
+# About Me
 
-I'm currently exploring whether self-supervised learning on play data and clever usage of language to align robot and human video in the same trajectory space can build models which provide a sufficient base that they can be swiftly fine-tuned to any manipulation task.
+Welcome to my blog! I'm Anant Aggarwal.
 
-In the past, I've looked into hierarchial RL, energy models for planning, and seeing if we can learn a representation of visual inputs where optimal paths are by definition the shortest path through the transformed space. 
+<!-- 
+Add your bio here. Some suggestions:
+- What you're currently working on
+- Your interests and areas of expertise
+- Your background and experience
+- What you write about on this blog
+-->
 
-I also love fencing! At my best, I've been ranked 43rd in the World for Men's Foil and I narrowly failed to qualify for the Tokyo Olympics. I've just graduated from Sydney University in Mechatronic (Space) Engineering, where I was advised by Ian Manchester and Stefan Williams. During my degree I spent a year split between Beijing and Hong Kong during which I studied at Tsinghua University on a New Colombo Scholarship, and interned at Zeroth.AI (a VC firm) and JD.com (China's analogue to Amazon). In Sydney I've interned at the Australian Centre for Field Robotics (ACFR),  Gronade (an analytics consultancy) and Language Confidence (AI for correcting spoken English). I'm currently working at McKinsey Digital. 
+## What I Write About
 
-If you're ever in Sydney drop me a message at any of the contacts at the bottom of the page!
+This blog covers topics in Machine Learning, Computer Vision, and my explorations in technology.
 
+## Connect
 
+Feel free to reach out through any of the social links below, or email me at [anantg24@iitk.ac.in](mailto:anantg24@iitk.ac.in).
