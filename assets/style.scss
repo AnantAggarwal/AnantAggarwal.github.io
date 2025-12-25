@@ -304,23 +304,20 @@ p>img {
 
   a {
     color: inherit;
-    display: inline-flex;
-    align-items: center;
 
     &:hover {
       color: #6366f1;
     }
   }
-
-  .site-favicon {
-    height: 1.2em;
-    width: auto;
-    margin-right: 0.35em;
-  }
 }
 
 .site-description {
   display: none;
+}
+
+.site-favicon {
+  height: 0.1em;
+  width: auto;
 }
 
 nav {
